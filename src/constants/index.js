@@ -1,3 +1,4 @@
+// controls every constant data used in the app
 const navLinks = [
   {
     id: 1,
